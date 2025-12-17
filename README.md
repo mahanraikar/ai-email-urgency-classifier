@@ -92,15 +92,4 @@ ai-email-urgency-agent/
 * Integration with CRM or ticketing systems
 * Fine-tuned models for domain-specific email workflows
 
----
 
-## Author
-
-Mahan Raikar
-AI Automation • LLM Agents • Workflow Engineering
-
----
-
-## License
-
-This project is provided for educational and demonstration purposes.
